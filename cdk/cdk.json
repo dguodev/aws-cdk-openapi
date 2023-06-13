@@ -25,10 +25,10 @@
       "aws",
       "aws-cn"
     ],
-    "RepositoryString": "lukepopp/aws-blog-openapi-cdkv2",
+    "RepositoryString": "https://github.com/dguodev/aws-cdk-openapi",
     "RepositoryBranch": "main",
-    "CodestarConnectionArn": "arn:aws:codestar-connections:ap-southeast-2:067566784356:connection/27053bd0-ce64-4c0b-9381-e31475918dfa",
-    "CodeArtifactDomain": "openapiblog",
-    "CodeArtifactRepository": "openapiblog"
+    "CodestarConnectionArn": "arn:aws:codestar-connections:us-east-2:957503052386:connection/144d7b54-c802-43f2-b4c2-054ffe1be7d6",
+    "CodeArtifactDomain": "arn:aws:codeartifact:us-east-2:957503052386:domain/test",
+    "CodeArtifactRepository": "arn:aws:codeartifact:us-east-2:957503052386:repository/test/test"
   }
 }
